@@ -1,6 +1,10 @@
 # Issue-tracker
 
 
-A Nodejs + EJS + MongoDB + Express application to track issues/bugs for a project.
+A Nodejs + EJS for Issue-Tracking in the peojects
+
+
+
+it is a node backend project
 
 
