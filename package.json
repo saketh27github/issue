@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kamendergangwar/Issue-tracker.git"
+    "url": "git+https://github.com/saketh27github/issue.git"
   },
-  "author": "Kamender Singh Gangwar",
+  "author": "saketh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kamendergangwar/Issue-tracker/issues"
+    "url": "https://github.com/saketh27github/issue.git"
   },
-  "homepage": "https://github.com/kamendergangwar/Issue-tracker#readme",
+  "homepage": "",
   "dependencies": {
     "dotenv": "^16.0.3",
     "ejs": "^3.1.8",
